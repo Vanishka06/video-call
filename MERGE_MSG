@@ -1,0 +1,6 @@
+WIP: saving changes before rebase
+
+# Conflicts:
+#	backend/server.js
+#	myapp/src/pages/Login.jsx
+#	myapp/src/pages/Register.jsx
